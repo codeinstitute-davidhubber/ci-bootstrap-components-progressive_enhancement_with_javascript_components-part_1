@@ -16,19 +16,28 @@
 
 ## Project
 
-##### Code Institute - Bootstrap - Components - Progressive Enhancement with JavaScript Components - part 1
+Progressive Enhancement with JavaScript Components - part 1
+
+
+## Project URL
+
+**'https://davidhubber.github.io/ci-bootstrap-components-progressive_enhancement_with_javascript_components-part_1/'**
+
 
 ## Description
 
 Progressive enhancement is a strategy for building websites and applications where we focus on the core content and experience before layering on any additional content and functionality.
 
+
 ## Author
 
 [DHSTUDIO](https://dhstudio.design "DHSTUDIO")
 
+
 ## Author URL
 
 <https://dhstudio.design>
+
 
 ## Technology
 This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com/cloud9/ "Cloud9")
@@ -36,6 +45,7 @@ This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com
 
 ## Licence
 This website was built as part of the learning material for Code Institutes Fullstack Web Developer program.
+
 
 ## Credit
 - Generated Title ASCII-Font URL › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Patorjk")
