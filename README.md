@@ -21,7 +21,7 @@ Progressive Enhancement with JavaScript Components - part 1
 
 ## Project URL
 
-**'https://davidhubber.github.io/ci-bootstrap-components-progressive_enhancement_with_javascript_components-part_1/'**
+**'https://codeinstitute-davidhubber.github.io/ci-bootstrap-components-progressive_enhancement_with_javascript_components-part_1/'**
 
 
 ## Description
